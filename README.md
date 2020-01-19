@@ -1,3 +1,3 @@
 # Quantitative-Risk-Analysis
 
-[Article](https://medium.com/@mohammedbilalansari.321)
+[Medium Article By Mohammed Bilal Ansari](https://medium.com/@mohammedbilalansari.321)
